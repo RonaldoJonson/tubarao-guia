@@ -203,6 +203,6 @@ function GetRoute()
 }
 
 const twilioClient = twilio(
-    `${ACc617803dbf1f466}${dc86c41a4eb4075e3}`,
-    `${e3157eede15a2a793705}${b11406e5b63b}`
+    ``,
+    ``
 )
